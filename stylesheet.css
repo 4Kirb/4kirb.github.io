@@ -1,0 +1,10 @@
+body{
+		        margin: 40px;
+		        padding-left: 360px;
+		        font-family:Futura, Verdana, Arial, Helvetica, sans-serif;
+		        color: #d3d3d5;
+		        background-color: #15161E;
+		        }
+a{color: #ffffe0; font-weight: bold;}
+a:hover{text-decoration: underline;}
+ul{margin: 0 0 0 1.6em; padding: 0;}
